@@ -10,7 +10,7 @@
   <p align="center">Subsets of ML and Data Structure: PyTorch, C++</p>
   <h3 align="center">💬 Ask Me About:</h3>
   <img src="https://github.com/user-attachments/assets/31fd09e3-38e9-4c0f-8fe1-3b1565dde079" style="border-radius: 100px;" />
-  <p align="center">Any NLP-related topics. We can even collaborate together! 😄</p>
+  <p align="center">Any NLP/Gen-AI/Deep_Learning/LLMs-related topics. We can even collaborate together! 😄</p>
   <h3 align="center">📫 How to Reach Me <img align="center" src="https://github.com/user-attachments/assets/750c2b49-9fbe-4cf7-ac10-e75384fd007f" height="105.6" width="80" style="margin: 10px;"/> </h3>
   <p align="center"><a href="mailto:abksingh2004@gmail.com">abksingh2004@gmail.com</a></p>
   <h3 align="center">📄 Know About My Experiences:</h3>
