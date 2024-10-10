@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/db6e5cd5-5e23-4ce6-be59-4bb21d202c3c" style="border-radius: 100px;" alt="Profile Banner"/>
   <h1 align="center">Hi 👋, This is Abhishek <img align="center" src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" height="60" width="80" style="margin: 10px;"/> </h1>
-  <h3 align="center">I have two years of academic experience in Artificial Intelligence and Machine Learning, specializing in TensorFlow. I've completed several projects and am eager to explore innovations like GANs and diffusion models in image processing.</h3>
+  <h3 align="center">Have prioritized years for experience in Artificial Intelligence and Machine Learning, specializing in TensorFlow and Pytorch. I've completed several projects and am eager to explore innovations like Transformers, GANs and diffusion models.</h3>
   <img src="https://github.com/user-attachments/assets/0736c007-0472-498d-b111-89e23b10c9fc" style="border-radius: 10px;" alt="smile"/>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abhi2april&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
