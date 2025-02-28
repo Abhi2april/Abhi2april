@@ -8,6 +8,8 @@
   </p>
   <h3 align="center">🌱 Currently Learning:</h3>
   <p align="center">Subsets of ML and Data Structure: PyTorch, C++</p>
+  <h3 aligh="centre"> Open Source Contributions:</h3>
+  <p aligh="centre">Contributing on [Slack](https://slack.com/intl/en-in/) for free ethicall workspace and launching it as a SAAS
   <h3 align="center">💬 Ask Me About:</h3>
   <img src="https://github.com/user-attachments/assets/31fd09e3-38e9-4c0f-8fe1-3b1565dde079" style="border-radius: 100px;" />
   <p align="center">Any NLP/Gen-AI/Deep_Learning/LLMs-related topics. Lets Communicate! 😄</p>
