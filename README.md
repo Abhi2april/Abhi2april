@@ -1,21 +1,21 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/db6e5cd5-5e23-4ce6-be59-4bb21d202c3c" style="border-radius: 100px; width: 100%; max-width: 800px;" alt="Profile Banner"/>
   
-  <h1 align="center">i am abhishek <img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" height="60" width="80" align="center"/></h1>
+  <h1 align="center">Abhishek<img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" height="60" width="80" align="center"/></h1>
   
-  <h3 align="center">am a student, prior AI architecture and pipeline researcher, currently an intern, I like machine learning and Algorithmic trading</h3>
+  <h3 align="center">I am a student, prior AI architecture and pipeline researcher, currently an intern in quants, I like Machine learning and Algorithmic trading</h3>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformers+%7C+GANs+%7C+Diffusion+Models+%7C+LLMs;Research+Enthusiast+%7C+AI+Product+Developer;Python+%7C+C%2B%2B+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformers+%7C+LLMs;AI+Research+Intern+%7C+Algorithmic+Trading;" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
-### latest works
-- 🧠 [LLM Fine-tuning Framework](https://github.com/Abhi2april/IIIT-Dharwad-LLM-Research) - Optimized pipeline for large language model adaptation
-- 🎨 [Stable Diffusion Toolkit(Currently working... willl push soon)](https://github.com/your-repo) - Custom implementation of diffusion models
-- 🤖 [Transformer from Scratch](https://github.com/Abhi2april/GPTs) - PyTorch implementation with custom attention mechanisms
+### Prev. works
+- [LLM Fine-tuning Framework](https://github.com/Abhi2april/IIIT-Dharwad-LLM-Research) - Optimized pipeline for large language model adaptation
+- [Stable Diffusion Toolkit(Currently working... willl push soon)](https://github.com/your-repo) - Custom implementation of diffusion models
+- [Transformer from Scratch](https://github.com/Abhi2april/GPTs) - PyTorch implementation with custom attention mechanisms
 
 ---
 
