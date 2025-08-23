@@ -3,7 +3,7 @@
   
   <h1 align="center">Abhishek<img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" height="60" width="80" align="center"/></h1>
   
-  <h3 align="center">I am a student, prior AI architecture and pipeline researcher, currently an intern in quants, I like Machine learning and Algorithmic trading</h3>
+  <h3 align="center">I am a final year engineering major, prior AI architecture & pipeline Researcher, currently an Interning in Quant Finance, I like Machine learning and Algorithmic trading</h3>
   
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformers+%7C+LLMs;AI+Research+Intern+%7C+Algorithmic+Trading;" alt="Typing SVG" />
@@ -12,10 +12,10 @@
 
 ---
 
-### Prev. works
+### Prev. works(not current)
 - [LLM Fine-tuning Framework](https://github.com/Abhi2april/IIIT-Dharwad-LLM-Research) - Optimized pipeline for large language model adaptation
 - [Stable Diffusion Toolkit(Currently working... willl push soon)](https://github.com/your-repo) - Custom implementation of diffusion models
-- [Transformer from Scratch](https://github.com/Abhi2april/GPTs) - PyTorch implementation with custom attention mechanisms
+- [GPT from Scratch](https://github.com/Abhi2april/GPTs) - PyTorch implementation with custom attention mechanisms
 
 ---
 
@@ -37,7 +37,7 @@
 ### Currentlyy
 - indulged in a Quant curriculum
 - implementing SOTA transformer architectures
-- optimizing model deployment and serving with TorchScript and onnx and triton
+- model serving with TorchScript, onnx and triton
 - and trying out different custom information identifier RAGs
 
 ---
