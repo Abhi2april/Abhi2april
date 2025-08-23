@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" style="border-radius: 100px; width: 100%; max-width: 800px;" alt="Profile Banner"/>
     
-  <h3 align="center">I am a final year engineering major, prior AI architecture & pipeline Researcher, currently Interning in Quant Finance, 
-    I like Machine learning and Algorithmic trading</h3>
+  <h3 align="center">I am a final year engineering major, prior AI architecture & pipeline Researcher, currently Interning in Quant Finance</h3>
   
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformers+%7C+LLMs;AI+Research+Intern+%7C+Algorithmic+Trading;" alt="Typing SVG" />
