@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/db6e5cd5-5e23-4ce6-be59-4bb21d202c3c" style="border-radius: 100px; width: 100%; max-width: 800px;" alt="Profile Banner"/>
-  
-  <h1 align="center">Abhishek<img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" height="60" width="80" align="center"/></h1>
-  
+  <img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" style="border-radius: 100px; width: 100%; max-width: 800px;" alt="Profile Banner"/>
+    
   <h3 align="center">I am a final year engineering major, prior AI architecture & pipeline Researcher, currently an Interning in Quant Finance, I like Machine learning and Algorithmic trading</h3>
   
   <p align="center">
