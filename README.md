@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/db6e5cd5-5e23-4ce6-be59-4bb21d202c3c" style="border-radius: 100px; width: 100%; max-width: 800px;" alt="Profile Banner"/>
   
-  <h1 align="center">🚀 Hi, I'm Abhishek Singh <img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" height="60" width="80" align="center"/></h1>
+  <h1 align="center">i am abhishek <img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" height="60" width="80" align="center"/></h1>
   
-  <h3 align="center">ML Student specializing in PyTorch | Generative AI Explorer | NLP/LLMs | Open Source Contributor</h3>
+  <h3 align="center">am a student, prior AI architecture and pipeline researcher, currently an intern, I like machine learning and Algorithmic trading</h3>
   
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformers+%7C+GANs+%7C+Diffusion+Models+%7C+LLMs;Research+Enthusiast+%7C+AI+Product+Developer;Python+%7C+C%2B%2B+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
@@ -12,40 +12,16 @@
 
 ---
 
-### 🔥 Latest Projects
+### latest works
 - 🧠 [LLM Fine-tuning Framework](https://github.com/Abhi2april/IIIT-Dharwad-LLM-Research) - Optimized pipeline for large language model adaptation
 - 🎨 [Stable Diffusion Toolkit(Currently working... willl push soon)](https://github.com/your-repo) - Custom implementation of diffusion models
 - 🤖 [Transformer from Scratch](https://github.com/Abhi2april/GPTs) - PyTorch implementation with custom attention mechanisms
 
 ---
 
-### 🛠️ Tech Stack
-
-#### **Core Language and Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SciKit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### **MLOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!--![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)-->
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-#### **Data**
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MatplotLib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00FFFF?style=for-the-badge&logo=chromadb&logoColor=white)
-
-
 <!--![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)-->
 
 ---
-
-### 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi2april&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
@@ -55,26 +31,14 @@
 
 ---
 
-### 🌐 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-singh-6b6597209/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abksingh2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/jessepinkmam/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
 
 ---
 
-### 🎯 Currently Focusing On
-- Implementing SOTA transformer architectures
-- Optimizing model deployment with TorchScript
-- Contributing to open-source ML projects
-- Solving 2 LeetCode problems daily
+### Currentlyy
+- indulged in a Quant curriculum
+- implementing SOTA transformer architectures
+- optimizing model deployment and serving with TorchScript and onnx and triton
+- and trying out different custom information identifier RAGs
 
 ---
 <!--
@@ -91,5 +55,4 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/65cc14a9-7876-4c1d-839d-df49a855490b" style="border-radius: 10px; width: 80%; max-width: 400px;" alt="BYE BYE"/>
   <br>
-  <h3>🚨 Pro Tip: Always keep learning - the next breakthrough might be your commit away! 🚨</h3>
 </div>
