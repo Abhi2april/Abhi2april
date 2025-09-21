@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/bd5ea2a1-0cd8-4930-936e-0391dc3f24ea" style="border-radius: 100px; width: 100%; max-width: 800px;" alt="Profile Banner"/>
     
   <p align="center">
-  I am a final year engineering major, prior AI architecture & pipeline Researcher, currently Interning in Quant Finance (IT'S VERY TOUGH)
+  I am a final year engineering major, prior AI architecture & pipeline Researcher, currently Interning in Algorithmic Trading.
 </p>
   
   <p align="center">
